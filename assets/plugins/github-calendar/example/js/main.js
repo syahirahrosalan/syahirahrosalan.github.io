@@ -1,1 +1,1 @@
-GitHubCalendar(".calendar", "airaalan");
+GitHubCalendar(".calendar", "IonicaBizau");
